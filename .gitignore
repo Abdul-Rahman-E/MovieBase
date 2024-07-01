@@ -1,0 +1,48 @@
+# Node.js
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directories
+coverage
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variable files
+.env
+.env.test
+
+# Optional REPL history
+.node_repl_history
+
+# Directories for packages
+*.tgz
+*.zip
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional VS Code settings
+.vscode
+
+# Optional JetBrains IDE settings
+.idea
+
+# Mac OS specific files
+.DS_Store
