@@ -4,6 +4,9 @@
 
 MovieBase is a web application designed to search for and display detailed information about movies and TV shows. It uses the [OMDb API](http://www.omdbapi.com/) to fetch data about various movies and shows.
 
+Live URL: [https://moviebase-db.netlify.app/](https://moviebase-db.netlify.app/)  
+Repository URL: [https://github.com/Abdul-Rahman-E/MovieBase](https://github.com/Abdul-Rahman-E/MovieBase)
+
 ## Features
 
 - Search for movies and TV shows
@@ -130,7 +133,7 @@ The main component that sets up the routing for the application.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MovieBase.git
+   git clone https://github.com/Abdul-Rahman-E/MovieBase.git
    ```
 2. Navigate to the project directory:
    ```bash
